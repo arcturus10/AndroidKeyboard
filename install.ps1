@@ -43,4 +43,4 @@ if ($result -eq [System.Windows.Forms.DialogResult]::OK)
     $location = $textBox.Text
 }
 Expand-Archive -LiteralPath $location -DestinationPath "\Program Files (x86)\Android Keyboard\application" -cf
-Write-Host "To Uninstall, delete the contents of   \Program Files (x86)\Android Keyboard\v0.1    " --ForegroundColor DarkGreen -BackgroundColor White
+Write-Host "To Uninstall, delete the contents of   \Program Files (x86)\Android Keyboard\v0.1    " -ForegroundColor DarkGreen -BackgroundColor White
