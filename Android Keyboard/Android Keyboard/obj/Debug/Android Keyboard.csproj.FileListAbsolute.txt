@@ -1,0 +1,13 @@
+E:\Repo\Android Keyboard\Android Keyboard\bin\Debug\Android Keyboard.exe.config
+E:\Repo\Android Keyboard\Android Keyboard\bin\Debug\Android Keyboard.exe
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android Keyboard.csprojAssemblyReference.cache
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android_Keyboard.Form1.resources
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android_Keyboard.Properties.Resources.resources
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android Keyboard.csproj.GenerateResource.cache
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android Keyboard.csproj.CoreCompileInputs.cache
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android Keyboard.exe
+E:\Repo\Android Keyboard\Android Keyboard\bin\Debug\MaterialSkin.dll
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android_Keyboard.ArrowKeys.resources
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android Keyboard.csproj.CopyComplete
+E:\Repo\Android Keyboard\Android Keyboard\obj\Debug\Android_Keyboard.HelpWindow.resources
+E:\Repo\Android Keyboard\Android Keyboard\bin\Debug\debug.html
