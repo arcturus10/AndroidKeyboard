@@ -12,6 +12,8 @@ Android Keyboard helps you make the most of your day by allowing you to send key
         
 <hr>
 <p>1.</strong>Enable Developer Options</img></p>
+<br>
+<br>
 <p><img src="https://developer.android.com/static/studio/images/run/dev-options-pixel_2x.png"><br><br><strong>2.</strong>Open "Developer Options"
 <ul>
         <li>Android 9 (API level 28) and higher: Settings > System > Advanced > Developer Options</li>
