@@ -1,7 +1,7 @@
 # Android Keyboard (ADB)
 ### Did you ever think of writing something great on your Android Device?
 The task is not as easy as it seems. You'd type with a small virtual keyboard, covering more than half of your device’s screen.
-> ## But now you can! By simply using the power of your PC's keyboard and a simple app, you can **unleash the power of Android device**.
+> ## But now you can! By simply using the power of your PC's keyboard and a simple app, you can **unleash the power of your Android device**.
 Android Keyboard helps you make the most of your day by allowing you to send keystrokes to your Android device using **ADB**
 <hr>
 
