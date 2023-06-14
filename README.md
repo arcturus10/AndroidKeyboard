@@ -5,7 +5,6 @@ The task is not as easy as it seems. You'd type with a small virtual keyboard, c
 Android Keyboard helps you make the most of your day by allowing you to send keystrokes to your Android device using **ADB**
 <hr>
 
-
 <p>        To use this application to simulate physical keyboard events on your android device,
         you need to enable <strong>"Developer Options"</strong> and <strong>"USB Debugging".</strong></p>
 
